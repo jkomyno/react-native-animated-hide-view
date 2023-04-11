@@ -1,6 +1,6 @@
 {
   "name": "react-native-animated-hide-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A performant-wise and configurable react-native component that can toggle the opacity of its children, with or without animation.",
   "main": "index.js",
   "scripts": {
